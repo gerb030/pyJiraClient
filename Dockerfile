@@ -1,5 +1,4 @@
 FROM python:alpine
-MAINTAINER Oscar Prieto <oscarmpp@gmail.com>
 
 # Install packages
 RUN apk add --no-cache libcurl
